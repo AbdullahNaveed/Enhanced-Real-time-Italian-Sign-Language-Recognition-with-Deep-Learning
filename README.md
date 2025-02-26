@@ -4,6 +4,7 @@
 
 This project enhanced the dataset described in the paper:
 *Real-Time Italian Sign Language Recognition with Deep Learning* by R. G. et al.
+**(https://ceur-ws.org/Vol-3078/paper-17.pdf)
 
 In this work, the dataset was enhanced for real-world applications by introducing more varied backgrounds. The original images, which had a uniform black background, were augmented by isolating hand contours and compositing them onto multiple, diverse backgrounds.
 
